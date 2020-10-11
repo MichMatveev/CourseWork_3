@@ -5,6 +5,5 @@ public class Start {
         DataBase db = new DataBase();
         db.printStudents();
         db.addStudent("Пермяков", "Александр", "Александрович");
-        db.printStudents();
     }
 }
